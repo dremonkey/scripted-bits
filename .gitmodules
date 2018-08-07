@@ -1,0 +1,9 @@
+[submodule "themes/sam"]
+	path = themes/sam
+	url = https://github.com/vickylai/hugo-theme-sam.git
+[submodule "themes/cactus"]
+	path = themes/cactus
+	url = https://github.com/digitalcraftsman/hugo-cactus-theme.git
+[submodule "themes/angels-ladder"]
+	path = themes/angels-ladder
+	url = https://github.com/tanksuzuki/angels-ladder

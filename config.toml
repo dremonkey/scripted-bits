@@ -1,0 +1,15 @@
+baseurl = "http://scriptedbits.com/"
+languageCode = "en-us"
+title = "Scripted Bits"
+theme = "angels-ladder"
+
+[Params]
+subtitle = "I would like to be a layer 3 switch."
+facebook = ""
+twitter = ""
+github = "https://github.com/dremonkey"
+showsRSS = true
+profile = "/images/profile.jpg"
+copyright = "Written by Andre Deutmeyer"
+analytics = "UA-XXXXXXXX-X"
+shareThis = ""
